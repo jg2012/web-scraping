@@ -1,0 +1,6 @@
+counter
+requests
+spacy
+beautifulsoup4
+matplotlib
+html5lib
